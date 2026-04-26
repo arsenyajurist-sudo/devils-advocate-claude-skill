@@ -119,7 +119,7 @@ devils-advocate/
 
 ## ⚖️ Правовой дисклеймер
 
-Скилл — **инструмент для подготовки**, а не замена юристу. Результаты работы Claude требуют проверки квалифицированным специалистом. Автор не несёт ответственности за процессуальные решения пользователя. Подробнее в [DISCLAIMER.md](./DISCLAIMER.md).
+Скилл — **инструмент для подготовки**, а не замена юристу. Результаты работы Claude требуют проверки квалифицированным специалистом.  не несёт ответственности за процессуальные решения пользователя. Подробнее в [DISCLAIMER.md](./DISCLAIMER.md).
 
 ---
 
@@ -127,10 +127,9 @@ devils-advocate/
 
 Скилл создан как часть проекта **«Цифровой мозг»** — сообщества про ИИ для юристов и предпринимателей.
 
-- 📱 Telegram: [@your_channel](https://t.me/your_channel) <!-- замени на свой -->
-- 📺 YouTube: [@your_youtube](https://youtube.com/@your_youtube) <!-- замени на свой -->
-- 🎬 VK: [vk.com/your_vk](https://vk.com/your_vk) <!-- замени на свой -->
-- 📸 Instagram: [@your_instagram](https://instagram.com/your_instagram) <!-- замени на свой -->
+- 📱 Telegram: [Вступить в «Цифровой мозг»](https://t.me/+yPMuhoHSzUtkNGNi)
+- 📸 Instagram: [@arsenya_advokat](https://www.instagram.com/arsenya_advokat/)
+- 🎬 VK: [vk.com/arsenyar](https://vk.com/arsenyar)
 
 ---
 
