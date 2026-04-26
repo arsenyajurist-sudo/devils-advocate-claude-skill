@@ -127,7 +127,7 @@ devils-advocate/
 
 Скилл создан как часть проекта **«Цифровой мозг»** — сообщества про ИИ для юристов и предпринимателей.
 
-- 📱 Telegram: [Вступить в «Цифровой мозг»](https://t.me/+yPMuhoHSzUtkNGNi)
+- 📱 Telegram: [Подписаться на «Цифровой мозг»](https://t.me/podpiska_advokat_bot?start=skill_devil)
 - 📸 Instagram: [@arsenya_advokat](https://www.instagram.com/arsenya_advokat/)
 - 🎬 VK: [vk.com/arsenyar](https://vk.com/arsenyar)
 
