@@ -2,6 +2,8 @@
 
 > Режим Claude, который играет роль оппонента и ищет дыры в твоей правовой позиции. Никакой вежливости, никаких «в целом неплохо» — только жёсткая, беспощадная критика.
 
+> 🇬🇧 **English version:** a jurisdiction-neutral, expanded version (legal and general modes, case-law and procedural audit) is in [legal-skills](https://github.com/arsenyajurist-sudo/legal-skills) — install with `/plugin marketplace add arsenyajurist-sudo/legal-skills`, then `/plugin install devils-advocate@legal-skills`.
+
 ![Claude](https://img.shields.io/badge/Claude-AI%20Skill-D97757?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Язык-Русский-blue?style=for-the-badge)
